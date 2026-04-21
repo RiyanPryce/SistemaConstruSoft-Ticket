@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="ConstruSoftTicket.API/ConstruSoftTicket.API.csproj" />
+  <Project Path="ConstruSoftTicket.Application/ConstruSoftTicket.Application.csproj" />
+  <Project Path="ConstruSoftTicket.Domain/ConstruSoftTicket.Domain.csproj" />
+  <Project Path="ConstruSoftTicket.Infrastructure/ConstruSoftTicket.Infrastructure.csproj" />
+</Solution>
