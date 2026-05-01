@@ -8,6 +8,7 @@ C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Application
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Application\obj\Debug\net10.0\ConstruSoftTicket.Application.AssemblyInfoInputs.cache
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Application\obj\Debug\net10.0\ConstruSoftTicket.Application.AssemblyInfo.cs
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Application\obj\Debug\net10.0\ConstruSoftTicket.Application.csproj.CoreCompileInputs.cache
+C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Application\obj\Debug\net10.0\ConstruSoftTicket.Application.sourcelink.json
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Application\obj\Debug\net10.0\ConstruS.288E2A56.Up2Date
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Application\obj\Debug\net10.0\ConstruSoftTicket.Application.dll
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Application\obj\Debug\net10.0\refint\ConstruSoftTicket.Application.dll
