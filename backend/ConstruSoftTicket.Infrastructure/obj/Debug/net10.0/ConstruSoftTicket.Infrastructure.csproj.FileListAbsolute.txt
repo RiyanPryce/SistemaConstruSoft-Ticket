@@ -1,4 +1,5 @@
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\bin\Debug\net10.0\ConstruSoftTicket.Infrastructure.deps.json
+C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\bin\Debug\net10.0\ConstruSoftTicket.Infrastructure.runtimeconfig.json
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\bin\Debug\net10.0\ConstruSoftTicket.Infrastructure.dll
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\bin\Debug\net10.0\ConstruSoftTicket.Infrastructure.pdb
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\bin\Debug\net10.0\ConstruSoftTicket.Application.dll
@@ -10,8 +11,10 @@ C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastruct
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\obj\Debug\net10.0\ConstruSoftTicket.Infrastructure.AssemblyInfoInputs.cache
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\obj\Debug\net10.0\ConstruSoftTicket.Infrastructure.AssemblyInfo.cs
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\obj\Debug\net10.0\ConstruSoftTicket.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\obj\Debug\net10.0\ConstruSoftTicket.Infrastructure.sourcelink.json
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\obj\Debug\net10.0\ConstruS.DC2BD271.Up2Date
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\obj\Debug\net10.0\ConstruSoftTicket.Infrastructure.dll
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\obj\Debug\net10.0\refint\ConstruSoftTicket.Infrastructure.dll
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\obj\Debug\net10.0\ConstruSoftTicket.Infrastructure.pdb
+C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\obj\Debug\net10.0\ConstruSoftTicket.Infrastructure.genruntimeconfig.cache
 C:\Users\braya\Documents\ConstruSoftTicket\backend\ConstruSoftTicket.Infrastructure\obj\Debug\net10.0\ref\ConstruSoftTicket.Infrastructure.dll
